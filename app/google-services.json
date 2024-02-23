@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553798564686",
+    "project_id": "mercadito-39978",
+    "storage_bucket": "mercadito-39978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553798564686:android:2accec21bffbce2bb53c1f",
+        "android_client_info": {
+          "package_name": "com.denis.mercadito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAD5r_2qs0jeW4Hy3ibjpCq1zmwV8Hkdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
